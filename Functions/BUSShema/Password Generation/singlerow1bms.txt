@@ -1,0 +1,5 @@
+Password Generation
+
+
+Write a to display user name and password. Password should be generate by concatenate first three characters of user name and first three numbers in phone number and give an alias name as password. Sort the result based on user name
+

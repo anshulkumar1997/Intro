@@ -1,0 +1,2 @@
+Change Case of Guest Name
+Write a query to display the guest name in proper case. For instance the guest name "geeta govind"  should be displayed as "Geeta Govind". Give alias name as GUESTNAME. Sort the result based on Guest Name.

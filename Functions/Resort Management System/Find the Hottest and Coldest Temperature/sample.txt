@@ -1,0 +1,3 @@
+Find the Hottest and Coldest Temperature
+Select the  highest summer & lowest winter temperature and display the output as "HOT SUMMER" and "CHILL WINTER"
+

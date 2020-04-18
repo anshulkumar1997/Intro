@@ -1,0 +1,4 @@
+Number of Guests In each Resort
+Management wants to display the resort details in which total guest stayed was 10 or less than. 
+
+Write a query to display the resort Id, the total  count guests stayed as "Total Guest" in each resort. Total guest will be calculated by considering both adult and child count.  The result set should be in the ascending order of resort id.

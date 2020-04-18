@@ -1,0 +1,12 @@
+Comments based on Star Rating
+Guest wants to display Resort Id, Name and Comments of the resort based on it's star rating. 
+
+Comments of the resort displays as follows
+
+If rating is between 5.0 to 4.5 then display the comments as 'Excellent Resort'
+
+If rating is between 4.4 to 4.0 then display the comments as 'Very Good Resort'
+
+else display 'Good Resort' . Give alias name to this result as Comments. 
+
+Sort the result based on resort id. 

@@ -1,0 +1,2 @@
+Count the Characters in Review Comments
+ Write a query to display the total count of characters in the review comment given by the guest. Display  the result set in the ascending order of count of characters. Give alias name as COMMENTS_LENGTH.

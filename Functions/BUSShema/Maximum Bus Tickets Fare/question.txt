@@ -1,0 +1,5 @@
+Maximum Bus Tickets Fare
+
+
+Write a query to display maximum bus tickets fare and give an alias name as Maximum_Amount
+

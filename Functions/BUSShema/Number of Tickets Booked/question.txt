@@ -1,0 +1,5 @@
+Number of Tickets Booked
+
+
+Write query to display user id and number of tickets booked by each user. Give an alias name as no_of_tickets. Sort the result based on number of tickets booked. (hint: Use Tickets table and users table)
+

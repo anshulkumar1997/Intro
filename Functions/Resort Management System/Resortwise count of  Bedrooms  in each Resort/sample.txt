@@ -1,0 +1,2 @@
+Resortwise count of Bedrooms in each Resort
+Write a query to calculate and display the resort id , total count of bed rooms each resort . The result set should be in the ascending order of resort id . Give alias name to count of bed rooms as TOTALCOUNT. 

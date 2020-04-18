@@ -1,0 +1,4 @@
+Formatting Date
+
+
+Write a query to display schedule id and date in the format of ‘YYYY-MM-DD’ and name the column as FormattedDate. Display record in ascending order by schedule id.

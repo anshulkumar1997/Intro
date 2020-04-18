@@ -1,0 +1,5 @@
+Maximum Duration of the Stay
+The manager has to calculate the maximum duration of stay in any resort. Write a query to find maximum number of days stayed by the guest. Give alias name to the result as "MAXIMUMDAYS".
+
+[Hint : number of days can be calculated using fromdate and todate of booking details]
+

@@ -1,0 +1,9 @@
+Total amount paid by each guest
+Managements wants to know total amount paid by each guest for each resort. 
+
+Write a query display resortid, guestid and total amount paid by them. Give total amount paid as TotalCost. 
+
+Sort the result based on resort id and guest id. 
+
+[Hint: A guest can book the same resort for multiple times. The total amount should be calculated for all booking]
+
