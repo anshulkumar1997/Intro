@@ -1,0 +1,1 @@
+Write a query to change the type of field Ac_Available in the buses table to varchar(5)

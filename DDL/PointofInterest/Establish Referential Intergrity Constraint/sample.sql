@@ -1,0 +1,1 @@
+alter table pointofinterest add foreign key(townID) references Town(townID);

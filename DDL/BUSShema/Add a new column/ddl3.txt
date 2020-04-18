@@ -1,0 +1,1 @@
+Write a query to add a new column named Ac_Available of type varchar2(10) to Buses table.

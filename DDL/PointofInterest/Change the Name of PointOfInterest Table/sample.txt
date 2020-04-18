@@ -1,0 +1,3 @@
+The resort management wants to change the name "PointOfInterest" to “TOURISTSPOTS”. Write a SQL statement to fulfill the requirement.
+
+[hint : Use alter statement to rename the table]

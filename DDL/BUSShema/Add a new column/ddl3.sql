@@ -1,0 +1,1 @@
+alter table buses add Ac_Available varchar2(10);

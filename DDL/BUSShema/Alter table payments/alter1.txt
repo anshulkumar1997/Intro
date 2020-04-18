@@ -1,0 +1,1 @@
+Write a query to rename a column from bd_id to booking_id in the table payments
