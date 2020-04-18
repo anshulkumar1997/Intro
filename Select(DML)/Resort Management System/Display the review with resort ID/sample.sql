@@ -1,0 +1,1 @@
+select resortID,comments from review where comments is not null order by resortID,comments;

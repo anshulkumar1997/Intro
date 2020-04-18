@@ -1,0 +1,2 @@
+Display Guests stayed with Pets
+ The resort manager wants to know the guest who brought their children and pet to the resort. Write a query to display the guest id, the resort id, the number of days they stayed (give alias name as numberofdays), count of adults, children and pet, their total charge incurred. Display the output in the descending order of pet count. 

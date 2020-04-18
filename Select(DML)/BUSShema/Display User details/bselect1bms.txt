@@ -1,0 +1,4 @@
+Display User details
+
+
+Write a query to display all the records of the users table and display records in ascending order by user name.

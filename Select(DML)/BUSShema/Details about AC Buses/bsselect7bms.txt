@@ -1,0 +1,4 @@
+Details about AC Buses
+
+
+Display bus_no as bus_number and bus_name as bus_name which has minimum 10 available seats and bus type is 'ac' and display it in ascending order by bus_no.

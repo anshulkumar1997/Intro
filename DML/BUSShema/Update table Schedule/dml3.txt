@@ -1,0 +1,6 @@
+Update table Schedule
+Contains the run and evaluate script of Oracle DML. Can be used as example
+
+
+
+Due to some reason the bus which is scheduled from Chennai to Bangalore has been postponed for 5 days. Write a query to change the scheduled date to the new date in the schedule table.

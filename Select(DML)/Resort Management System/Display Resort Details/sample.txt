@@ -1,0 +1,3 @@
+Display Resort Details
+Display all the resort name and town name where the resort is located.  Sort the result set in the ascending order of resort name
+

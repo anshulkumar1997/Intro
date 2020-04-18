@@ -1,0 +1,4 @@
+Bus number without duplicates
+
+
+Write a query to display bus_no without duplicates from schedule table and display by bus_no in descending order.

@@ -1,0 +1,1 @@
+MARY GREY wants to change her phone number. Considering the following records in “Guest” table and write a SQL statement to change her phone number to '912233445566'

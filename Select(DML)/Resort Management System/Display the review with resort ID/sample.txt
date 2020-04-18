@@ -1,0 +1,3 @@
+Display the review with resort ID
+Write a query to display the resort id and it's review if available. Sort the result based on resort id and it's review.  
+

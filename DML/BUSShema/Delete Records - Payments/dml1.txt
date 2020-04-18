@@ -1,0 +1,5 @@
+Contains the run and evaluate script of Oracle DML. Can be used as example
+
+
+
+Write a query to delete payment details from payments table where discount coupon 'D1' was applied .

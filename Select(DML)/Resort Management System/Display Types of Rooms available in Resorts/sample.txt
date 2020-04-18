@@ -1,0 +1,2 @@
+Display Types of Rooms available in Resorts
+Resort manager wants to know the type of rooms available in the resorts. Write a query to display the resort id, number of bed rooms, and type of rooms available in resort ids 1001 and 1002. Display the result set in the ascending order of resort id, number of bed rooms and types of rooms available.

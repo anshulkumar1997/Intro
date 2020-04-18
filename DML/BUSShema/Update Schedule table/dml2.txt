@@ -1,0 +1,6 @@
+Update Schedule table
+Contains the run and evaluate script of Oracle DML. Can be used as example
+
+
+
+Write a query to change the destination to ‘Coimbatore’ where schedule id is S4 in schedule table.

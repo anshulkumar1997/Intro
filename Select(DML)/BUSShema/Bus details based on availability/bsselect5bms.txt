@@ -1,0 +1,4 @@
+Bus details based on availability
+
+
+Write query to display bus_no and bus_name where the available seats are between 5 to 10 and display the records in ascending order by bus name.

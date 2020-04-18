@@ -1,0 +1,1 @@
+update BUSES set TYPE = 'ac' where BUS_NO = 33;

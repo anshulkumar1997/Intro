@@ -1,0 +1,1 @@
+select resortName,townname from resort order by resortName;

@@ -1,0 +1,2 @@
+ResortID 1002 is not maintaining good standard and the guest reviews are not up to our standard rating, so the management has decided to remove the resort from our resort management system. Write a SQL statement to remove the resort.
+

@@ -1,0 +1,4 @@
+List Buses details
+
+
+Write a query to display bus number and bus name ordered by bus name in descending order.

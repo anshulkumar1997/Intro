@@ -1,0 +1,2 @@
+Display Tourist Spots
+Guest has requested the manager to give the list of point of interest which closes 8PM or later. Write a query to display the point ID and its description. Display  the output  in the ascending order of pointid.

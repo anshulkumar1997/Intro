@@ -1,0 +1,5 @@
+Contains the run and evaluate script of Oracle DML. Can be used as example
+
+
+
+Write a query to change the bus type 'non ac' to 'ac' where bus number is 33 in buses table.

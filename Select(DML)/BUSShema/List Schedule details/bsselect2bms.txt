@@ -1,0 +1,5 @@
+List Schedule details
+
+
+Write a query to display all the records of the Schedule table and display records in descending order by schedule id.
+
