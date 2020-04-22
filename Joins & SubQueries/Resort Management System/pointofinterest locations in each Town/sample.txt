@@ -1,0 +1,2 @@
+pointofinterest locations in each Town
+ Write a query to fetch the various pointofinterest locations in the town. Display  townname,state ,description as "Tourist Spots",  in the ascending order of townid.

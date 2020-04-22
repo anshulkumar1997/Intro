@@ -1,0 +1,2 @@
+Townname for PointOfInterest locations
+Write a query to display the point id, description, town name and state where the pointofinterest is located. Sort the result in the ascending order of point id.

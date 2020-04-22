@@ -1,0 +1,3 @@
+Review Comment for star rating Resort
+Write a query to display resort id and review comments of all resort which has star rating above 4.2. sort the output in ascending order of resort id.
+

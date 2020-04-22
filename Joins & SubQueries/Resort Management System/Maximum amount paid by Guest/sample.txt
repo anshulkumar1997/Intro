@@ -1,0 +1,5 @@
+Maximum amount paid by Guest
+ Managements wants to know guest and maximum amount paid by each guest for any of the bookings. 
+
+Write a query to display the Guest ID, Guest name and maximum amount paid by them(give alias name as MAX_AMOUNT). Sort the result based on guest ID. 
+

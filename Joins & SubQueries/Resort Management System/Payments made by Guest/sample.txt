@@ -1,0 +1,2 @@
+Payments made by Guest
+Write a query to display the booking and the payment made by guest.  Display guest name, resort name, from date, to date, adult count, child count and total charges made by guest. Sort the output in the ascending order of guestid.

@@ -1,0 +1,2 @@
+Guest who paid highest charges
+ Write a query to display the guestid and guest name who was charged highest amount in the resort. Sort the output on the guestid.

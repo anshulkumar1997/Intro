@@ -1,0 +1,2 @@
+Review Comment for all Resort
+Write a query to display the resort name , guest name , review comments for all resort. sort the output in ascending order of resort ID.

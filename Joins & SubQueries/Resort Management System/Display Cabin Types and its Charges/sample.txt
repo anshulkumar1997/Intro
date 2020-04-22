@@ -1,0 +1,2 @@
+Display Cabin Types and its Charges
+Write a query to display the cabin id , cabin type,  cabin description , number of bedroom, sleep capacity , and its cost. Output should be sorted on cabin id

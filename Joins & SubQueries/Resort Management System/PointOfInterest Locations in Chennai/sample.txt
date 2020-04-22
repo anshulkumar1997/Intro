@@ -1,0 +1,2 @@
+PointOfInterest Locations in Chennai
+Write a query to display the pointId, description, open time and close time for all the pointofinterest in “CHENNAI” location. Output should be sorted on pointid.

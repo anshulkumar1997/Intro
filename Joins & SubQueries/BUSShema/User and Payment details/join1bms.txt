@@ -1,0 +1,6 @@
+User and Payment details
+
+
+Write a query to display user id, user name, ticket id , total amount, amount to be paid after discount and give alias name as User_ID, user_name, Ticket_Id, Total_amount, Paid_amount. Display record in descending order by user id.
+
+[Note : Total amount to be paid should be number of seats* amount per ticket ]

@@ -1,0 +1,4 @@
+Customer details based on booking count
+
+
+Write a query to display user id and user name where number of seats booked by the user in individual booking is greater than 1. Display records in ascending order by user name.

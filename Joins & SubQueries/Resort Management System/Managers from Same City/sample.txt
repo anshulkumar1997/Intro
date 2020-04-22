@@ -1,0 +1,3 @@
+Managers from Same City
+Managements wants to display city and manager details if more than one manager from same city. 
+Write a query to display city , manager name and their phone number. Sort the result based on city and manager name. 

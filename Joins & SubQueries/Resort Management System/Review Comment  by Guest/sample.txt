@@ -1,0 +1,2 @@
+Review Comment by Guest
+The resort manager wants to see the review comments given by the customer. Write a query to display guest name, resort name and review comments and display the result set in ascending order of guest name and resort name.

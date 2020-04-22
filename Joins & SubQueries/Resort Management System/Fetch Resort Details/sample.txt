@@ -1,0 +1,2 @@
+Fetch Resort Details
+ Write a query to display the resort name and its manager name for resort located at "JAIPUR". Sort by resort name .

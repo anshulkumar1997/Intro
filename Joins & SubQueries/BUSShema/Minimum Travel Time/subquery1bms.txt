@@ -1,0 +1,5 @@
+Minimum Travel Time
+
+
+Display schedule_id, source, destination and travel_time which has minimum travel time. Sort the result based on schedule id
+

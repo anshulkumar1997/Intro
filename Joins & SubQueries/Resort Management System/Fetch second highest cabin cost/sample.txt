@@ -1,0 +1,3 @@
+Fetch second highest cabin cost
+Write a query to display the second highest cabin cost rate. Give alias name as SECOND_MAX. 
+

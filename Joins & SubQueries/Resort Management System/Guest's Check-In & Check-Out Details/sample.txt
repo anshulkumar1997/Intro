@@ -1,0 +1,3 @@
+Guest's Check-In & Check-Out Details
+Write a query to display the guest name, country, email id , phone number , check in date  , check out date  and total amount to be paid. Sort the output in the ascending order of guest id.
+

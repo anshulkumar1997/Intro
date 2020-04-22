@@ -1,0 +1,2 @@
+Cabin Type and Bedroom Count in each Resort
+Manager wants to know the cabin types and no of bedrooms in the resorts.  Write a query to display  resort name, description, cabin type, bed room count  available in resort. Sort the output in the order of resortid

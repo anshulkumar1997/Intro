@@ -1,0 +1,2 @@
+Cities having Summer Temperature More than Jaipur
+ Write a query to display all the town names which has summer temperature more than “JAIPUR”. Output should be sorted on town name

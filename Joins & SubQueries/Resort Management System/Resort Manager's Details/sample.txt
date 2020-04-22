@@ -1,0 +1,7 @@
+Resort Manager's Details
+Managements wants to know the manager of each resort. 
+
+Display resortid , resort name,  manager name and his phone. Sort the output in ascending order of resort id. Give alias to manager name as MANAGERNAME and phone as PHONENO.
+
+If manager is not available then display manager name  'NA'. If phone number is not available then display as 'NA'.
+

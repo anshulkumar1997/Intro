@@ -1,0 +1,2 @@
+Resort that charges the highest
+Write a query to display the name of the resort that charges the highest. Sort the output on the resort name. 

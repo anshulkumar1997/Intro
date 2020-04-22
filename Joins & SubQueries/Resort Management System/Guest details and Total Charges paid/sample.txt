@@ -1,0 +1,2 @@
+Guest details and Total Charges paid
+Display guest details who paid total charges RS.50000 and above. Write a query to fetch Guest id, Guest name and Sum of total charges. Give alias name to total charges as TOTALPAID. Sort the result by guest id.

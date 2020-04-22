@@ -1,0 +1,2 @@
+Review Comments Shared by Guest
+Display the review comments shared by the guest. Write a query to display the resort name , guest name and guest comment. Give alias name to guest name as GUEST NAME. Sort the result set based on Resort name and Guest Name. 

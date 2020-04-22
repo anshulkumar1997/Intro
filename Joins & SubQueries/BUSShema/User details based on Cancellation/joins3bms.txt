@@ -1,0 +1,5 @@
+User details based on Cancellation
+
+
+Write query to display user_id and user name of those who have canceled their tickets and display records in ascending order by user_id. (Hint: Take user,tickets and cancellation tables)
+

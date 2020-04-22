@@ -1,0 +1,2 @@
+Resort with Least Capacity
+Write to query to display the name and town name of the resort that has least bed room count. Sort the output on the resort name.
